@@ -1,0 +1,21 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 800;
+}
+
+div.recipes {
+    font-size: 14px;
+    color: rgb(71, 64, 64);
+    border-style: outset;
+    border-color: rgb(71, 64, 64);
+    border-width: 1px;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: 800;
+}
