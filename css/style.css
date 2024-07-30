@@ -10,9 +10,10 @@ h1 {
 div.recipes {
     font-size: 14px;
     color: rgb(71, 64, 64);
-    border-style: outset;
-    border-color: rgb(71, 64, 64);
-    border-width: 1px;
+    width: 800px;
+    border: 10px solid darkgrey;
+    padding: 25px;
+    margin: 20px;
 }
 
 h3 {
