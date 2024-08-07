@@ -6,7 +6,9 @@ h1 {
     font-size: 32px;
     font-weight: 800;
 }
-
+body {
+    background: lightcoral
+}
 div.recipes {
     font-size: 14px;
     color: rgb(71, 64, 64);
