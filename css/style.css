@@ -1,24 +1,40 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+    
 }
 
 h1 {
     font-size: 32px;
     font-weight: 800;
+    color: azure;
+    margin: 2rem
 }
 body {
-    background: lightcoral
+    background-color:rgb(37, 37, 88)
 }
 div.recipes {
-    font-size: 14px;
+    font-size: 1rem;
     color: rgb(71, 64, 64);
-    width: 800px;
-    border: 10px solid darkgrey;
-    padding: 25px;
-    margin: 20px;
+    width: 600px;
+    padding: 10px;
+    margin: 2rem auto;
+    background-color: azure;
+}
+
+.homeimage {
+    display: block;
+    margin: 10px auto;
+    width: 40%;
+
 }
 
 h3 {
-    font-size: 24px;
+    background-color: #90a4ae;
+    margin: -0.5rem -0.5rem 1.5rem -0.5rem;
+    padding: .5rem;
+    font-size: 1.5rem;
     font-weight: 800;
+    border-bottom: solid 4px black;
 }
